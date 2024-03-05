@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c169b58-c1ff-4dc4-81a0-8f8bd7f6c686" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Commentjava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hellojava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ConEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ConOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperatorEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperatorEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperatorEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bn4p6BC1Eido3N5P86CxMJrcKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array2.executor": "Run",
+    "Application.Array3.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.ConEx1.executor": "Run",
+    "Application.ConOp1.executor": "Debug",
+    "Application.HelloJava.executor": "Run",
+    "Application.Hellojava2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method1Ref.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.Operator1.executor": "Run",
+    "Application.Operator2.executor": "Run",
+    "Application.Operator3.executor": "Run",
+    "Application.Operator4.executor": "Run",
+    "Application.Operator5.executor": "Run",
+    "Application.Operator6.executor": "Run",
+    "Application.Operator7.executor": "Run",
+    "Application.OperatorEx1.executor": "Run",
+    "Application.OperatorEx2.executor": "Run",
+    "Application.OperatorEx3.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.Scanner4.executor": "Run",
+    "Application.Scanner5.executor": "Run",
+    "Application.Scanner6.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerEx7.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Var1.executor": "Run",
+    "Application.Var2.executor": "Run",
+    "Application.Var3.executor": "Run",
+    "Application.Var4.executor": "Run",
+    "Application.Var5.executor": "Run",
+    "Application.VarEx1.executor": "Run",
+    "Application.VarEx2.executor": "Run",
+    "Application.VarEx3.executor": "Run",
+    "Application.While_1.executor": "Run",
+    "Application.While_2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/pakjeongwoo/java study/java-start/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Method2">
+    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEx7" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayEx8" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method1Ref" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Method2" />
+        <item itemvalue="Application.Method1Ref" />
+        <item itemvalue="Application.Method1" />
+        <item itemvalue="Application.ArrayEx8" />
+        <item itemvalue="Application.ArrayEx7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c169b58-c1ff-4dc4-81a0-8f8bd7f6c686" name="Changes" comment="" />
+      <created>1706837689480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706837689480</updated>
+    </task>
+    <servers />
+  </component>
+</project>
